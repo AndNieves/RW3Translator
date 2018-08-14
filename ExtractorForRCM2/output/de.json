@@ -1,0 +1,18 @@
+{
+    "header": {
+        "title": ""
+    },
+    "login": {
+        "forgotPassword": "Kennwort vergessen?",
+        "intro": "",
+        "invalidCreds": "",
+        "learnMore": "",
+        "legacyRefWorks": "Die alte RefWorks-Version verwenden",
+        "login": "",
+        "loginButton": "",
+        "multiVersionTitle": "In welche Version von RefWorks möchten Sie gerne exportieren?",
+        "newRefWorks": "RefWorks",
+        "notAUser": "",
+        "signUp": ""
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "header": {
+        "title": "Cabezal!"
+    },
+    "login": {
+        "forgotPassword": "¿Olvidó su contraseña?",
+        "intro": "",
+        "invalidCreds": "",
+        "learnMore": "",
+        "legacyRefWorks": "Utilizar la versión antigua de RefWorks",
+        "login": "",
+        "loginButton": "",
+        "multiVersionTitle": "¿A qué versión de RefWorks le gustaría exportar?",
+        "newRefWorks": "RefWorks",
+        "notAUser": "",
+        "signUp": ""
+    }
+}

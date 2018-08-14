@@ -1,0 +1,18 @@
+{
+    "header": {
+        "title": ""
+    },
+    "login": {
+        "forgotPassword": "忘记密码？",
+        "intro": "",
+        "invalidCreds": "",
+        "learnMore": "",
+        "legacyRefWorks": "使用旧版 RefWorks",
+        "login": "",
+        "loginButton": "",
+        "multiVersionTitle": "您要导出至哪个 RefWorks 版本？",
+        "newRefWorks": "RefWorks",
+        "notAUser": "",
+        "signUp": ""
+    }
+}

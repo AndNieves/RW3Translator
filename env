@@ -1,0 +1,12 @@
+export SBT_OPTS="-Xms256m -Xmx4096m -XX:PermSize=128m -XX:MaxPermSize=512m -XX:+UseConcMarkSweepGC -XX:+CMSClassUnloadingEnabled"
+
+export PRO_QUEST_HOME="/Users/anieves/repos/RefWorks/pqd"
+export PRO_QUEST_ENV="an"
+export PRO_QUEST_PRODUCT="oz"
+
+
+export AWS_ACCESS_KEY_ID="AKIAJRNWBN2DPB7FSLDA"
+export AWS_SECRET_ACCESS_KEY="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"
+export AWS_SECRET_KEY="61ZOzUZ4LMpsgN5rvP58qcZqOirAer4ZCt1i4wHr"
+
+export JAVA_HOME="/Library/Java/JavaVirtualMachines/1.7.0.jdk/Contents/Home"

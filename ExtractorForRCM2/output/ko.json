@@ -1,0 +1,18 @@
+{
+    "header": {
+        "title": ""
+    },
+    "login": {
+        "forgotPassword": "비밀번호 찾기",
+        "intro": "",
+        "invalidCreds": "",
+        "learnMore": "",
+        "legacyRefWorks": "Legacy RefWorks 사용",
+        "login": "",
+        "loginButton": "",
+        "multiVersionTitle": "어떤 버전의 RefWorks로 내보내시겠습니까?",
+        "newRefWorks": "RefWorks",
+        "notAUser": "",
+        "signUp": ""
+    }
+}
